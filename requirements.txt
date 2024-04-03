@@ -1,0 +1,4 @@
+whisper-mic
+PyAudio 
+openai  
+pygame
